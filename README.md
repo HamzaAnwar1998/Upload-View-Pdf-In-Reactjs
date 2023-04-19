@@ -2,11 +2,11 @@
 
 ## About Project
 
-A simple react application that uploads and view PDF files in browsers, built with React-PDF-Viewer. If you find this outdated then you can check this updated repo [here] (https://github.com/HamzaAnwar1998/View-PDF-Files-in-React-Apps-2022)
+A simple react application that uploads and view PDF files in browsers, built with React-PDF-Viewer. If you find this outdated then you can check this updated repo https://github.com/HamzaAnwar1998/View-PDF-Files-in-React-Apps-2022
 
 ## Live Presentation Video
 
-[Link] (https://youtu.be/v-PoG1X8jig) 
+https://youtu.be/v-PoG1X8jig 
 
 ## Built With
 
@@ -15,7 +15,7 @@ A simple react application that uploads and view PDF files in browsers, built wi
 
 ## Similar Project
 
-* [View PDF Files from Firebase Storage in React] (https://github.com/HamzaAnwar1998/View-PDF-Files-from-Firebase-Storage-in-React)
+* View PDF Files from Firebase Storage in React: https://github.com/HamzaAnwar1998/View-PDF-Files-from-Firebase-Storage-in-React
 
 ## Getting Started
 
